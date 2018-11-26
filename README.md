@@ -26,3 +26,12 @@ OpenCV, Deep learning and Computer Vision-related codes are uploaded to this rep
 [MovileNet](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md) => MobileNet weight download
 
 [Run network in OpenCV](https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API) => Tensorflow object detection API and OpenCV functions
+
+
+## Dataset for Deep Learning network training
+
+[Apollo Scape - Lane Segmentation](http://apolloscape.auto/lane_segmentation.html) => Lane segmentation traning images
+
+[CamVid Dataset](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) => Motion-based Segmentation and Recognition Dataset
+[CamVid - Some of still images](http://web4.cs.ucl.ac.uk/staff/g.brostow/MotionSegRecData/files/701_StillsRaw_full.zip) => Sampling version of CamVid (557Mb)
+
